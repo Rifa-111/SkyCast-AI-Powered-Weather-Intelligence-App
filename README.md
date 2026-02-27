@@ -1,3 +1,5 @@
+<img width="465" height="683" alt="image" src="https://github.com/user-attachments/assets/754480c6-9dc7-46a9-b118-10d12c66dd72" />
+
 🌤️ SkyCast – AI-Powered Weather Intelligence App
 
 SkyCast is a modern, AI-enhanced weather application built with React, Vite, TypeScript, and Tailwind CSS, powered by Google Gemini for intelligent weather insights and natural language interactions.
