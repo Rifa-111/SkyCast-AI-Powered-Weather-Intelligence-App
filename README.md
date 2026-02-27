@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🌤️ SkyCast – AI-Powered Weather Intelligence App
 
-# Run and deploy your AI Studio app
+SkyCast is a modern, AI-enhanced weather application built with React, Vite, TypeScript, and Tailwind CSS, powered by Google Gemini for intelligent weather insights and natural language interactions.
 
-This contains everything you need to run your app locally.
+It goes beyond traditional weather apps by combining real-time weather data with AI-generated summaries, contextual insights, and conversational capabilities.
 
-View your app in AI Studio: https://ai.studio/apps/58233f10-7322-4c3a-970c-f479c91cb609
+🚀 Features
 
-## Run Locally
+- Location-based Weather Search
 
-**Prerequisites:**  Node.js
+- Interactive Weather Visualisations (charts & trends)
 
+- AI-Generated Weather Insights using Gemini API
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Conversational Weather Queries
+
+- Modern, responsive UI with Tailwind CSS
+
+- Fast performance powered by Vite
+
+- Environment-based API key configuration
+
+🛠️ Tech Stack
+
+Frontend
+
+React 19
+
+TypeScript
+
+Vite
+
+Tailwind CSS
+
+Recharts
+
+Framer Motion
+
+Backend / Server
+
+Express.js
+
+Better-SQLite3
+
+AI Integration
+
+Google Gemini API (@google/genai)
