@@ -24,25 +24,25 @@ It goes beyond traditional weather apps by combining real-time weather data with
 
 🛠️ Tech Stack
 
-Frontend
+- Frontend
 
-React 19
+- React 19
 
-TypeScript
+- TypeScript
 
-Vite
+- Vite
 
-Tailwind CSS
+- Tailwind CSS
 
-Recharts
+- Recharts
 
-Framer Motion
+- Framer Motion
 
-Backend / Server
+- Backend / Server
 
-Express.js
+- Express.js
 
-Better-SQLite3
+- Better-SQLite3
 
 AI Integration
 
